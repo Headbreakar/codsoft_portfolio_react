@@ -56,15 +56,16 @@ header {
 }
 
 @media screen and (max-width: 1024px) {
-  header {
+  /* header {
     height: 68vh;
-  }
+  } */
 }
 @media screen and (max-width: 600px) {
   header {
-    .header__socials,
-    .scroll__down {
-      display: none;
-    }
+    height: 100vh;
+  }
+  .header__socials,
+  .scroll__down {
+    display: none;
   }
 }
