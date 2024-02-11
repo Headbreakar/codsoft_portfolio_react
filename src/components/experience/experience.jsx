@@ -1,11 +1,8 @@
-import React from 'react';
-import './experience.css';
-
+import React from "react";
+import "./experience.css";
 
 const experience = () => {
-  return (
-    <div>experience</div>
-  )
-}
+  return <section id="experience">experience</section>;
+};
 
-export default experience
+export default experience;
