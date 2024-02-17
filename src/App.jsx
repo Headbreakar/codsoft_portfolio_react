@@ -20,10 +20,6 @@ const App = () => {
 
       <Contact />
       <Footer />
-      <p>
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi,
-        inventore.
-      </p>
     </>
   );
 };
