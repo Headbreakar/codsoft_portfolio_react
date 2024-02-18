@@ -14,7 +14,7 @@ const Socials = () => {
       <a href="https://github.com/Headbreakar" target="_blank">
         <FaGithub />
       </a>
-      <a href="https://github.com/Headbreakar" target="_blank">
+      <a href="https://codsoft-portfolio-react.vercel.app/" target="_blank">
         <FaCode />
       </a>
     </div>

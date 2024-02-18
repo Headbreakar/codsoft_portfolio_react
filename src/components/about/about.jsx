@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import image from "../../assets/me-about.jpg";
+import image from "../../assets/tab-thumb.jpg";
 import { FaAward } from "react-icons/fa";
 import { FaUserCheck } from "react-icons/fa";
 import { FaRegFileCode } from "react-icons/fa";
@@ -38,10 +38,10 @@ const about = () => {
             </article>
           </div>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eligendi
-            quod ipsam sit officia consectetur numquam similique animi, a facere
-            quae cum nam est delectus deleniti aliquam corrupti tempore eius
-            quis.
+            Versatile web developer proficient in HTML5, CSS3, JavaScript,
+            ECMAScript, Tailwind CSS, and React18. Expertise lies in crafting
+            accessible and standards-compliant websites, optimizing online
+            visibility, and driving user engagement.
           </p>
 
           <a href="#contact" className="btn btn-primary">
