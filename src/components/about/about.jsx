@@ -21,14 +21,14 @@ const about = () => {
           <div className="about__cards">
             <article className="about__card">
               <FaAward className="about__icon" />
-              <h5>Experience</h5>
-              <small>2+ Years Working</small>
+              <h5>Achievements</h5>
+              <small>Top Student at Aptech Education</small>
             </article>
 
             <article className="about__card">
               <FaUserCheck className="about__icon" />
               <h5>Experience</h5>
-              <small>2+ Years Working</small>
+              <small>1 Year</small>
             </article>
 
             <article className="about__card">

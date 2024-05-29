@@ -5,7 +5,8 @@ import img2 from "../../assets/portfolio2.jpg";
 import img3 from "../../assets/portfolio3.jpg";
 import img4 from "../../assets/portfolio4.jpg";
 import img5 from "../../assets/portfolio5.jpg";
-
+import img6 from "../../assets/portfolio6.png";
+import img7 from "../../assets/portfolio7.png";
 const data = [
   {
     id: 1,
@@ -23,10 +24,10 @@ const data = [
   },
   {
     id: 3,
-    image: img3,
-    title: "Codsoft Product Catalog",
-    github: "https://github.com",
-    demo: "https://merciadopark.netlify.app",
+    image: img7,
+    title: "Codsoft Quiz App",
+    github: "https://github.com/Headbreakar/codsoft-quiz-app",
+    demo: "https://codsoft-quiz-prem-r09t9rh25-headbreakars-projects.vercel.app/",
   },
   {
     id: 4,
@@ -41,6 +42,13 @@ const data = [
     title: "Soundwalker Electronic Music Space",
     github: "https://github.com/Headbreakar",
     demo: "https://soundwalker-landing-page.vercel.app/",
+  },
+  {
+    id: 6,
+    image: img6,
+    title: "Spider-Man Web Animation Component",
+    github: "https://github.com/Headbreakar",
+    demo: "https://spideranimation.netlify.app/",
   },
 ];
 
