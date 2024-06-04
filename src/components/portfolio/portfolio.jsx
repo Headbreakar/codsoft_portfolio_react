@@ -9,6 +9,7 @@ import img6 from "../../assets/portfolio6.png";
 import img7 from "../../assets/portfolio7.png";
 import img8 from "../../assets/portfolio8.jpg";
 import img9 from "../../assets/portfolio9.png";
+import img10 from "../../assets/portfolio10.png";
 const data = [
   {
     id: 1,
@@ -65,6 +66,13 @@ const data = [
     title: "Full Scale Screen and Image Slider",
     github: "https://github.com/Headbreakar/full-scale-slider",
     demo: "https://full-scale-slider.vercel.app/",
+  },
+  {
+    id: 9,
+    image: img10,
+    title: "Animted Dark Theme Website",
+    github: "https://animated-design.vercel.app/",
+    demo: "https://animated-design.vercel.app/",
   },
 ];
 
