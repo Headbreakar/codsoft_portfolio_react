@@ -7,6 +7,7 @@ import img4 from "../../assets/portfolio4.jpg";
 import img5 from "../../assets/portfolio5.jpg";
 import img6 from "../../assets/portfolio6.png";
 import img7 from "../../assets/portfolio7.png";
+import img8 from "../../assets/portfolio8.jpg";
 const data = [
   {
     id: 1,
@@ -49,6 +50,13 @@ const data = [
     title: "Spider-Man Web Animation Component",
     github: "https://github.com/Headbreakar",
     demo: "https://spideranimation.netlify.app/",
+  },
+  {
+    id: 7,
+    image: img8,
+    title: "Next Wave Marketing Agency",
+    github: "https://github.com/Headbreakar/next-wave-agency",
+    demo: "https://next-wave-agency.vercel.app/",
   },
 ];
 
