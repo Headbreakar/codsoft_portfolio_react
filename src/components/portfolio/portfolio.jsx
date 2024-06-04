@@ -8,6 +8,7 @@ import img5 from "../../assets/portfolio5.jpg";
 import img6 from "../../assets/portfolio6.png";
 import img7 from "../../assets/portfolio7.png";
 import img8 from "../../assets/portfolio8.jpg";
+import img9 from "../../assets/portfolio9.png";
 const data = [
   {
     id: 1,
@@ -57,6 +58,13 @@ const data = [
     title: "Next Wave Marketing Agency",
     github: "https://github.com/Headbreakar/next-wave-agency",
     demo: "https://next-wave-agency.vercel.app/",
+  },
+  {
+    id: 8,
+    image: img9,
+    title: "Full Scale Screen and Image Slider",
+    github: "https://github.com/Headbreakar/full-scale-slider",
+    demo: "https://full-scale-slider.vercel.app/",
   },
 ];
 
